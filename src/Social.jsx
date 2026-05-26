@@ -117,7 +117,7 @@ const EXPERTS = [
     name: 'TS. Lưu Phúc Lợi',
     role: 'Cố vấn chuyên môn',
     spec: 'Tiến sĩ tại Viện Max Planck (Đức) · Viện Garvan Sydney (Úc)',
-    tag: 'Y sinh học phân tử',
+    tag: 'Giải trình tự ',
     tagColor: 'bg-emerald-100 text-emerald-700',
   },
   {
@@ -125,7 +125,7 @@ const EXPERTS = [
     name: 'ThS. Phạm Minh Trung',
     role: 'Phụ trách chuyên môn Invivo Lab TP.HCM',
     spec: 'Thạc sĩ Xét nghiệm ĐH Y Dược TP.HCM · Fellow tại Yonsei University (Seoul)',
-    tag: 'Xét nghiệm phân tử',
+    tag: 'Hóa sinh-Sinh học phân tử',
     tagColor: 'bg-teal-100 text-teal-700',
   },
 ];
@@ -140,7 +140,7 @@ export function Team() {
             Chuyên gia <span className="text-brand-blue">đồng hành cùng mẹ</span>
           </h2>
           <p className="text-sm text-slate-500 mt-2 max-w-sm mx-auto">
-            Đội ngũ chuyên gia đầu ngành về di truyền, xét nghiệm phân tử và y sinh học
+            Đội ngũ chuyên gia đầu ngành, đã và đang công tác các bệnh viện danh tiếng
           </p>
         </div>
 
