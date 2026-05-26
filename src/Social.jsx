@@ -117,7 +117,7 @@ const EXPERTS = [
     name: 'TS. Lưu Phúc Lợi',
     role: 'Cố vấn chuyên môn',
     spec: 'Tiến sĩ tại Viện Max Planck (Đức) · Viện Garvan Sydney (Úc)',
-    tag: 'Giải trình tự ',
+    tag: 'Giải trình tự Gene và R&D',
     tagColor: 'bg-emerald-100 text-emerald-700',
   },
   {
