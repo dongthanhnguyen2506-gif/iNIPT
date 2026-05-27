@@ -1,7 +1,8 @@
 // Images served as static files from /public/images/
 // WebP format — compressed 96% vs original base64 bundle
 
-export const LOGO          = '/images/logo_invivo.webp';
+export const LOGO      = '/images/logo_white.webp';
+export const LOGO_DARK = '/images/logo_dark.webp';
 
 // Hero / Section photos
 export const IMG_B1        = '/images/img_b1.webp';
