@@ -1,4 +1,4 @@
-
+import { LOGO_DARK } from './images';
 const go = id => {
   const el = document.querySelector(id);
   if (el) {
