@@ -80,9 +80,9 @@ export function Policy() {
 const EXPERTS = [
   { photo:IMG_EXPERT_PTN, name:'PGS.TS.BS. Phạm Thiện Ngọc', role:'Phụ trách chuyên môn HN',  spec:'Nguyên Trưởng bộ môn Hóa sinh ĐH Y HN · PCT Hội Hóa Sinh Y Học VN', tag:'Hóa sinh · Di truyền',  tagColor:'bg-blue-100 text-brand-blue' },
   { photo:IMG_EXPERT_LTT, name:'PGS.TS.BS. Lê Trung Thọ',    role:'Cố vấn chuyên môn',        spec:'Trưởng khoa Giải phẫu bệnh, BV Phổi Trung ương',                   tag:'Giải phẫu bệnh',      tagColor:'bg-indigo-100 text-indigo-700' },
-  { photo:IMG_EXPERT_NTT, name:'BS. Ngô Thế Toàn',            role:'Cố vấn chuyên môn',        spec:'Bác sĩ chuyên môn Invivo Lab Hà Nội',                              tag:'Xét nghiệm lâm sàng', tagColor:'bg-sky-100 text-sky-700' },
-  { photo:IMG_EXPERT_LPL, name:'TS. Lưu Phúc Lợi',            role:'Cố vấn chuyên môn',        spec:'TS tại Viện Max Planck (Đức) · Viện Garvan Sydney (Úc)',            tag:'Y sinh học phân tử',  tagColor:'bg-emerald-100 text-emerald-700' },
-  { photo:IMG_EXPERT_PMT, name:'ThS. Phạm Minh Trung',        role:'Phụ trách chuyên môn HCM', spec:'ThS Xét nghiệm ĐH Y Dược HCM · Fellow Yonsei University Seoul',    tag:'Xét nghiệm phân tử',  tagColor:'bg-teal-100 text-teal-700' },
+  { photo:IMG_EXPERT_NTT, name:'BS. Ngô Thế Toàn',            role:'Cố vấn chuyên môn',        spec:'Bác sĩ chuyên môn Invivo Lab Hà Nội',                              tag:'Xét nghiệm', tagColor:'bg-sky-100 text-sky-700' },
+  { photo:IMG_EXPERT_LPL, name:'TS. Lưu Phúc Lợi',            role:'Cố vấn chuyên môn',        spec:'TS tại Viện Max Planck (Đức) · Viện Garvan Sydney (Úc)',            tag:'Tin sinh học',  tagColor:'bg-emerald-100 text-emerald-700' },
+  { photo:IMG_EXPERT_PMT, name:'ThS. Phạm Minh Trung',        role:'Phụ trách chuyên môn HCM', spec:'ThS Xét nghiệm ĐH Y Dược HCM · Fellow Yonsei University Seoul',    tag:'Xét nghiệm Sinh học phân tử',  tagColor:'bg-teal-100 text-teal-700' },
 ];
 
 export function Team() {
