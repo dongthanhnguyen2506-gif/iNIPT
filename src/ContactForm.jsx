@@ -5,15 +5,16 @@ const NEEDS = [
   { id: 'inipt',    label: 'iNIPT cơ bản' },
   { id: 'iplus',    label: 'iNIPT+ gene lặn' },
   { id: 'twins',    label: 'Song thai' },
-  { id: 'ivf',      label: 'IVF / Thai quý' },
   { id: 'consult',  label: 'Cần tư vấn thêm' },
 ];
 
 export default function ContactForm() {
   const [form, setForm] = useState({
     name: '', phone: '', week: '', city: '',
-    needs: ['ivf'],   // ← IVF đã được tick sẵn theo yêu cầu
-  });
+    const [form, setForm] = useState({
+  name: '', phone: '', week: '', city: '',
+  needs: [],
+});
   const [errors, setErrors] = useState({});
   const [done, setDone]     = useState(false);
 
